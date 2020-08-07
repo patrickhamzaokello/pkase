@@ -1,2 +1,0 @@
-# pkase
-Pkase Tech
